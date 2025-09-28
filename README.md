@@ -1,6 +1,6 @@
 ## About me👋
 
-I am a software engineer, and I am based in Hiroshima, Japan.
+I'm nish, not the command-line kind.
 
 ## Summary📊
 
