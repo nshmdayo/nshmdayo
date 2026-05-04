@@ -1,4 +1,4 @@
 ## About me👋
 
-I'm nish, not a Shell kind.
+I'm nish, not a shell kind.
 
